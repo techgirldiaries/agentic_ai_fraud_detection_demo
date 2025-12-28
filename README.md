@@ -34,7 +34,7 @@ deactivate
 streamlit run src\dashboard.py
 ```
 
-Then open your browser to: **<http://localhost:8502>**
+Then, ctrl+click the link to view in your browser or copy the link: **<http://localhost:8502>**
 
 **Features:**
 
@@ -117,7 +117,7 @@ Transaction → Retriever → Classifier → Reasoning → Decision + Explanatio
 - **NumPy** - Numerical computations
 - **Pandas** - Data manipulation & preprocessing
 - **Scikit-learn** - ML models & metrics
-- **PyTorch** - Deep learning (optional, graceful fallback)
+- **PyTorch** - Deep learning (optional, fallback)
 
 ### Visualisation
 
@@ -146,7 +146,7 @@ Transaction → Retriever → Classifier → Reasoning → Decision + Explanatio
 - ✅ Interactive Streamlit dashboard
 - ✅ CLI for batch processing
 - ✅ PCA Visualisation of fraud patterns
-- ✅ Graceful fallbacks (PyTorch → Sklearn, Real data → Synthetic)
+- ✅ System fallbacks (PyTorch → Sklearn, Real data → Synthetic)
 
 ### Production-Ready Enhancements
 
@@ -250,10 +250,6 @@ streamlit run src/dashboard.py
 - **Model**: Simple logistic regression for demo.
 - **Vector Store**: In-memory for demo.
 
-## 📜 License
-
-MIT License - For educational and demonstration purposes.
-
 ## 🤝 Contributing
 
 This is a demo project for educational purposes. Feel free to fork and enhance!
@@ -262,6 +258,8 @@ This is a demo project for educational purposes. Feel free to fork and enhance!
 
 For questions or feedback about this demo, please open an issue on the repository.
 
----
+## 📜 License
 
-### Built with ❤️ for demonstrating Agentic AI architectures in fraud detection
+Licensed under the PolyForm Noncommercial License - Commercial use is prohibited
+
+Copyright (c) 2025 Oluwakemi Obadeyi
