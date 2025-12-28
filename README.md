@@ -148,7 +148,7 @@ Transaction → Retriever → Classifier → Reasoning → Decision + Explanatio
 - ✅ PCA Visualisation of fraud patterns
 - ✅ System fallbacks (PyTorch → Sklearn, Real data → Synthetic)
 
-### Production-Ready Enhancements
+### Production Recommendations
 
 - 🔄 Add CIS-IEEE anonymised dataset
 - 🔄 Replace in-memory vector store with **FAISS**
@@ -263,3 +263,4 @@ For questions or feedback about this demo, please open an issue on the repositor
 Licensed under the PolyForm Noncommercial License - Commercial use is prohibited
 
 Copyright (c) 2025 Oluwakemi Obadeyi
+
